@@ -21,8 +21,6 @@ Blog Fetch, Blog Admin, DynamoDB, and Lambda Layer
   +---> Observability (CloudWatch, X-Ray, CloudWatch Logs Insights)
 ```
 
-![Architecture diagram](docs/architecture.png)
-
 ## How It Works
 
 ### Request path
