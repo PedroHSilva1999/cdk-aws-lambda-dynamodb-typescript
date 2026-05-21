@@ -21,6 +21,9 @@ Blog Fetch, Blog Admin, DynamoDB, and Lambda Layer
   +---> Observability (CloudWatch, X-Ray, CloudWatch Logs Insights)
 ```
 
+<img width="1536" height="1024" alt="07877863-bd2d-4826-95f2-d840acced99a" src="https://github.com/user-attachments/assets/a5f8822e-8180-4ccc-98cd-0b5c651e814b" />
+
+
 ## How It Works
 
 ### Request path
